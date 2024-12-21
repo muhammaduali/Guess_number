@@ -18,7 +18,7 @@ This is a simple **Guess the Number** game built using **HTML**, **CSS**, and **
 ## 🔧 Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com//<repository-name>](https://github.com/muhammaduali/Guess_number).git
+   git clone https://github.com/muhammaduali/Guess_number.git
    ```
 2. Navigate to the project directory:
    ```bash
