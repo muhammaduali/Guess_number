@@ -25,8 +25,8 @@ bt.addEventListener("click", function () {
     if (score < 0) {
         re.textContent = "Game Over!";
         sc.style.display = "none";
-        bt.style.backgroundColor = '#BA9B45'; // Retain the background color (or keep it as you want)
-        bt.style.border = 'solid #BA9B45 2px'; // Retain the border style
+        bt.style.backgroundColor = '#BA9B45'; 
+        bt.style.border = 'solid #BA9B45 2px'; 
         bt.style.cursor = 'default';
 
     }
